@@ -23,7 +23,7 @@ switch($_GET['error']){
 	case 'im':
 		$msg="Error in sending image";
 		break;
-	case 'wu':
+	case 'wa':
 		$msg ="Invalid URL";
 		break;
 	default:
